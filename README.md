@@ -4,7 +4,11 @@
 ![ESP8266](https://img.shields.io/badge/ESP8266-Supported-green.svg)
 
 ## 📌 Overview  
-This project is a **Wi-Fi-controlled car** using **NodeMCU** and **RemoteXY**. It allows users to control the car's movement and speed via a mobile app over a local Wi-Fi network.  
+This project is a **Wi-Fi-controlled car** using **NodeMCU** and **RemoteXY**. It allows users to control the car's movement and speed via a mobile app over a local Wi-Fi network.
+
+## 🖼️ Screenshot  
+![App Interface](screenshots/screenshot1.jpg)  
+*Assembled Wi-Fi Controlled Car.*  
 
 ## 🎯 Features  
 ✅ **Wi-Fi-based control** using RemoteXY  
